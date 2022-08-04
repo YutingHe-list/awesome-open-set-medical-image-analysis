@@ -1,4 +1,4 @@
-# awesome-open-set-medical-image-analysis
+# Awesome-open-set-medical-image-analysis
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
