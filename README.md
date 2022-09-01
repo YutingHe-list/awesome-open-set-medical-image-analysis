@@ -69,6 +69,16 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 [CVPR][Towards Inheritable Models for Open-Set Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html)
 
+***2021***
+
+[ICCV][Towards Novel Target Discovery Through Open-Set Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2021/html/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.html)
+
+[WACV][Object Recognition With Continual Open Set Domain Adaptation for Home Robot](https://openaccess.thecvf.com/content/WACV2021/html/Kishida_Object_Recognition_With_Continual_Open_Set_Domain_Adaptation_for_Home_WACV_2021_paper.html)
+
+***2022***
+
+[WACV][Distance-Based Hyperspherical Classification for Multi-Source Open-Set Domain Adaptation](https://openaccess.thecvf.com/content/WACV2022/html/Bucci_Distance-Based_Hyperspherical_Classification_for_Multi-Source_Open-Set_Domain_Adaptation_WACV_2022_paper.html)
+
 **Journal**
 
 ***2020***
