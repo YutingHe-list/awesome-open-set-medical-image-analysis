@@ -49,11 +49,11 @@ This repo is a collection of AWESOME things about open set research on medical i
 ### ...
 
 **Arxiv**
-***[2022]Test Time Transform Prediction for Open Set Histopathological Image Recognition
+[2022][Test Time Transform Prediction for Open Set Histopathological Image Recognition](https://arxiv.org/abs/2206.10033)
 [2022]Open-Set Recognition of Breast Cancer Treatments
 [2021]Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks
 [2020]SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation
-[2019]Open Set Medical Diagnosis]***
+[2019]Open Set Medical Diagnosis]
 **Coference**
 
 **Journal**
