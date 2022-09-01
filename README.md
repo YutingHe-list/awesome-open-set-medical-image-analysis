@@ -74,16 +74,20 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 # Other Resources
 
-
 |                           Dataset                            | Number | Modality  |     Region     |     Format      |
 | :----------------------------------------------------------: | :----: | :-------: | :------------: | :-------------: |
-|             [ABIDE](http://preprocessed-connectomes-project.org/abide/)              |   1000+   |  ASD、MRI   |     Brain      |      .img       |
-|                          [OASIS](www.oasis-brains.org/)                          |   100+   |  MRI  |     Brain    | .img |
-|        [DDSM](http://www.eng.usf.edu/cvprg/)       |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
+|             [DIRLAB](https://www.dir-lab.com/ )              |   10   |  4D  CT   |      Lung      |      .img       |
+|                          [LPBA40]()                          |   40   |  3D  MRI  |    T1 Brain    | .img+.hdr  .nii |
+|        [IBSR18](https://www.nitrc.org/projects/ibsr/)        |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
 |             [EMPIRE](http://empire10.isi.uu.nl/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
+|                          [LiTS]( )                           |  131   |   3D CT   |     Liver      |      .nii       |
+| [CT-scans-before-and-after](https://www.kaggle.com/kmader/ct-scans-before-and-after) |        |           |                |                 |
+|            [Openi](https://openi.nlm.nih.gov/faq)            |        |   X-ray   |                |                 |
 | [POPI](https://www.creatis.insa-lyon.fr/rio/popi-model?action=show&redirect=popi) |   6    |   4D CT   |                |                 |
 |            [NLST](https://cdas.cancer.gov/nlst/)             |        |    CT     |      Lung      |                 |
 |  [ADNI](http://adni.loni.usc.edu/data-samples/access-data/)  |        |  3D MRI   |     Brain      |                 |
+|            [OASIS](http://www.oasis-brains.org/)             |        |  3D MRI   |     Brain      |                 |
+| [ABIDE](http://preprocessed-connectomes-project.org/abide/)  |        |  3D MRI   |     Brain      |                 |
 | [ADHD200](http://neurobureau.projects.nitrc.org/ADHD200/Introduction.html) |        |           |                |                 |
 |    [CUMC12](https://www.synapse.org/#!Synapse:syn3207203)    |   12   |  3D MRI   |     Brain      |    .img+.hdr    |
 |    [MGH10](https://www.synapse.org/#!Synapse:syn3207203)     |   10   |  3D MRI   |     Brain      |    .img+.hdr    |
@@ -93,7 +97,5 @@ This repo is a collection of AWESOME things about open set research on medical i
 | [SLIVER](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo) |   20   |    CT     |     Liver      |                 |
 | [LSPIG](https://drive.google.com/open?id=1xQMmYk9S8En2k_uavytuHeeSmN253jKo) |   17   |    CT     |     Liver      |                 |
 |         [OAI](http://oai.epi-ucsf.org/datarelease/)          | 20000+ |  3D MRI   | Osteoarthritis |                 |
-
-
 
 
