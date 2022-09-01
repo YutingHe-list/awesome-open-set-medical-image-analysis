@@ -58,7 +58,7 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 **Coference**
 
-[MICCAI][Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis]
+[MICCAI][Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis](...)
 
 [MICCAI][Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks](https://arxiv.org/abs/2110.10888)
 
@@ -79,7 +79,7 @@ This repo is a collection of AWESOME things about open set research on medical i
 | :----------------------------------------------------------: | :----: | :-------: | :------------: | :-------------: |
 |             [ABIDE](http://preprocessed-connectomes-project.org/abide/)              |   1000+   |  ASD、MRI   |     Brain      |      .img       |
 |                          [OASIS](www.oasis-brains.org/)                          |   100+   |  MRI  |     Brain    | .img |
-|        [DDSM](http://www.eng.usf.edu/cvprg/))       |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
+|        [DDSM](http://www.eng.usf.edu/cvprg/)       |   18   |  3D  MRI  |    T1 Brain    |    .img+.hdr    |
 |             [EMPIRE](http://empire10.isi.uu.nl/)             |   30   |   4D CT   |      Lung      |    .mhd+.raw    |
 | [POPI](https://www.creatis.insa-lyon.fr/rio/popi-model?action=show&redirect=popi) |   6    |   4D CT   |                |                 |
 |            [NLST](https://cdas.cancer.gov/nlst/)             |        |    CT     |      Lung      |                 |
