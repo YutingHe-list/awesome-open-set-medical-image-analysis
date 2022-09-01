@@ -54,15 +54,15 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 [2022][Open-Set Recognition of Breast Cancer Treatments](https://arxiv.org/abs/2201.02923)
 
-[2021][Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks](https://arxiv.org/abs/2110.10888)
-
-[2020][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
-
 [2019][Open Set Medical Diagnosis](https://arxiv.org/abs/1910.02830)
 
 **Coference**
 
 [MICCAI][Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis]
+
+[MICCAI][Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks](https://arxiv.org/abs/2110.10888)
+
+[ACM][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
 
 **Journal**
 
