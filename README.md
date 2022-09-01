@@ -50,7 +50,7 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 **Arxiv**
 
-[2022][Test Time Transform Prediction for Open Set Histopathological Image Recognition](https://arxiv.org/abs/2206.10033)[code](https://github.com/agaldran/t3po)
+[2022][Test Time Transform Prediction for Open Set Histopathological Image Recognition](https://arxiv.org/abs/2206.10033) [code](https://github.com/agaldran/t3po)
 
 [2022][Open-Set Recognition of Breast Cancer Treatments](https://arxiv.org/abs/2201.02923)
 
