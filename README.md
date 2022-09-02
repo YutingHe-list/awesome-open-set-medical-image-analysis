@@ -14,6 +14,8 @@ This repo is a collection of AWESOME things about open set research on medical i
     - [...](#...)
   - [Open set medical image analysis](#open-set-medical-image-analysis)
     - [...](#...)
+  - [Open set in segmentation](#open-set-medical-image-analysis)
+    - [...](#...)
   - [Benchmarks](#benchmarks)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
@@ -118,6 +120,24 @@ This repo is a collection of AWESOME things about open set research on medical i
 [ACM][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
 
 **Journal**
+
+## Open set segmentation
+
+### ...
+
+**Arxiv**
+
+[2020][Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673)
+
+**Coference**
+
+[CVPR][SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2203.15202)
+
+[CVPR][Conditional Reconstruction for Open-set Semantic Segmentation](https://arxiv.org/abs/2203.01368)
+
+[CVPR][Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
+
+[ECCV][Bayesian Semantic Instance Segmentation in Open Set World](https://arxiv.org/abs/1806.00911)
 
 ## Benchmarks
 
