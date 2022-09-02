@@ -14,7 +14,7 @@ This repo is a collection of AWESOME things about open set research on medical i
     - [...](#...)
   - [Open set medical image analysis](#open-set-medical-image-analysis)
     - [...](#...)
-  - [Open set in segmentation](#open-set-in-segentation)
+  - [Open set in segmentation](#open-set-in-segmentation)
     - [...](#...)
   - [Open set in anomaly detection](#open-set-in-anomaly-detection)
     - [...](#...)
