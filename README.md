@@ -14,7 +14,9 @@ This repo is a collection of AWESOME things about open set research on medical i
     - [...](#...)
   - [Open set medical image analysis](#open-set-medical-image-analysis)
     - [...](#...)
-  - [Open set in segmentation](#open-set-medical-image-analysis)
+  - [Open set in segmentation](#open-set-in-segentation)
+    - [...](#...)
+  - [Open set in anomaly detection](#open-set-in-anomaly-detection)
     - [...](#...)
   - [Benchmarks](#benchmarks)
 - [Library](#library)
@@ -113,13 +115,11 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 **Coference**
 
-[MICCAI][Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis](...)
+[MICCAI 2022][Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis](...)
 
-[MICCAI][Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks](https://arxiv.org/abs/2110.10888)
+[MICCAI 2018][Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks](https://arxiv.org/abs/2110.10888)
 
-[ACM][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
-
-**Journal**
+[ACM 2022][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
 
 ## Open set segmentation
 
@@ -127,17 +127,38 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 **Arxiv**
 
+[2022][Conditional Reconstruction for Open-set Semantic Segmentation](https://arxiv.org/abs/2203.01368)
+
 [2020][Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673)
+
+[2020][Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
 
 **Coference**
 
-[CVPR][SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2203.15202)
+[CVPR 2022][SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2203.15202)
 
-[CVPR][Conditional Reconstruction for Open-set Semantic Segmentation](https://arxiv.org/abs/2203.01368)
+[ECCV 2018][Bayesian Semantic Instance Segmentation in Open Set World](https://arxiv.org/abs/1806.00911)
 
-[CVPR][Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
+## Open set in anomaly detection
 
-[ECCV][Bayesian Semantic Instance Segmentation in Open Set World](https://arxiv.org/abs/1806.00911)
+### ...
+
+**Arxiv**
+
+[2022][The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](https://arxiv.org/abs/2203.02486)
+
+[2021][Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570)
+
+**Coference**
+
+[ECCV 2022][DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition](https://arxiv.org/abs/2207.02606)
+
+[CVPR 2022][Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection](https://arxiv.org/abs/2203.14506)
+
+[CVPR 2022][UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection](https://arxiv.org/abs/2111.08644)
+
+**Journal**
+
 
 ## Benchmarks
 
