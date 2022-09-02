@@ -121,7 +121,7 @@ This repo is a collection of AWESOME things about open set research on medical i
 
 [ACM 2022][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
 
-## Open set segmentation
+## Open set in segmentation
 
 ### ...
 
